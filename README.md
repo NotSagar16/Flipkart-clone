@@ -1,0 +1,3 @@
+# Flipkart-clone
+This is my first-ever clone project. Not so good-looking...
+Just beginner level:)
